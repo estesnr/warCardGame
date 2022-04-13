@@ -1,7 +1,7 @@
 # warCardGame
 Multiplayer card game of the game "War".
 
-The rules of the game are simple:
+The rules of the game are simple: <br />
   1.) Players 1 and 2 can enter alternate Tags. <br/ >
   2.) Each player draws a card. <br />
   3.) High card wins and gets 2 points. <br />

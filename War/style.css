@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1618325508550-951512a1e82d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmlyZXxlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-size: cover;
+    color: darkorange;
+    text-align: center;
+}
+
+section {
+    width: 49%;
+    float: left;
+}
+
+h1 {
+    font-family: 'Rubik Bubbles', cursive;
+    height: 150px;
+    font-size: 90px;
+    color: darkred;
+}
+
+#result {
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+.score {
+    color: yellow;
+    font-family: 'Orbitron', sans-serif;
+}
+
+button {
+    height: 35px;
+    margin-top: 20px;
+    padding: 0 30px;
+}
+
+@media screen and (max-width: 700px) {
+    img {
+        height: 200px;
+    }
+}

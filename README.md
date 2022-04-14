@@ -12,5 +12,7 @@ The rules of the game are simple: <br />
   
 
 4/13/2022:
-  Content and Styling completed, uploaded prototype layout to Github
+  - Content and Styling completed, uploaded prototype layout to Github <br />
+  - Created fetch functions for a new deck, card draw functions, and comparison function for the fight button <br />
+  
 

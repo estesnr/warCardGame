@@ -14,6 +14,15 @@ section {
     float: left;
 }
 
+img {
+    height: 500px;
+}
+
+#fightButton {
+    height: 150px;
+    margin: 30px;
+}
+
 h1 {
     font-family: 'Rubik Bubbles', cursive;
     height: 150px;
@@ -24,6 +33,11 @@ h1 {
 #result {
     width: 100%;
     text-align: center;
+}
+
+#endResult {
+    font-size: 90px;
+    color: blue;
 }
 
 h2 {
@@ -44,5 +58,9 @@ button {
 @media screen and (max-width: 700px) {
     img {
         height: 200px;
+    }
+
+    #fightButton {
+        height: 70px;
     }
 }
